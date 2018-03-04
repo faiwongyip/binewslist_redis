@@ -9,7 +9,7 @@ scrapy、scrapy-redis、正则表达式、sqlserver
 
 ![流程图](https://github.com/faiwongyip/binewslist_redis/blob/master/imgs/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
-##数据表：
+## 数据表：
 
 - **ccp_xz_newslist_1** ——新闻列表
 
